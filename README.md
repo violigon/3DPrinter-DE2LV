@@ -18,7 +18,7 @@ Junto ao motor NEMA 17 de 1.7Ah:
 
 Utilizamos a [calculadora de VREF](http://atividademaker.com.br/calculando-vref) do site [Atividade Maker](https://atividademaker.com.br/), com os valores:
 
-![image-20211104120124260](src\imgs\CalcVREF.jpg)
+![image-20211104120124260](https://raw.githubusercontent.com/violigon/3DPrinter-DE2LV/main/src/imgs/CalcVREF.jpg)
 
 ## Software
 
