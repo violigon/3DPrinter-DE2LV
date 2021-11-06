@@ -14,7 +14,7 @@ Para calcular a VREF do driver DRV8825:
 
 Junto ao motor NEMA 17 de 1.7Ah:
 
-<img src="src\imgs\Nema 17.jpg" alt="Motor de passo NEMA 17" style="zoom: 15%;" />
+<img src="src\imgs\nema_17.jpg" alt="Motor de passo NEMA 17" style="zoom: 15%;" />
 
 Utilizamos a [calculadora de VREF](http://atividademaker.com.br/calculando-vref) do site [Atividade Maker](https://atividademaker.com.br/), com os valores:
 
